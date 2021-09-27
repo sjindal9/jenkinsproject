@@ -1,5 +1,6 @@
 node{
 stage("SCM"){
      println("building....")
+     groovy()
 }
 }
